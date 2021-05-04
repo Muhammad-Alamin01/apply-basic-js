@@ -8,4 +8,4 @@
 * factorial Recursive way
 * fibonacci iterative way
 * fibonacci Recursive way
-
+* animal count
